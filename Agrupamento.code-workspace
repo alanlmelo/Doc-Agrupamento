@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Atividade Pratica 1"
+		},
+		{
+			"path": "Atividade Pratica 3"
+		},
+		{
+			"path": "Atividade Pratica 4"
+		},
+		{
+			"path": "Trabalho final"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
